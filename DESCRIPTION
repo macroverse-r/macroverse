@@ -10,7 +10,7 @@ Description: Meta-package that loads the complete macroverse ecosystem for
     international economic and social data analysis. Provides a unified interface
     to mvcommon (utilities), pplot (visualization), isomapper (country codes),
     macrodata (data access), and mvlazy (convenience functions).
-License: AGPL (>= 3)
+License: AGPL (>= 3) + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Depends:

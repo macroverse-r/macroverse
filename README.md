@@ -92,10 +92,4 @@ By contributing to this project, you agree to abide by its terms.
 
 ## License
 
-The macroverse ecosystem is available under a dual-licensing model:
-
-- **Open Source**: AGPL-3.0 for academic and non-commercial use
-- **Commercial**: Alternative licensing available for commercial
-  applications
-
-See LICENSE.md for details.
+The macroverse ecosystem is licensed under AGPL-3.0.
